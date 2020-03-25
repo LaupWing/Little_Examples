@@ -1,4 +1,5 @@
-# Little Examples
+<h1 align="center">Little Examples</h1>
+
 > Little projects to use for example references
 
 _In this repository you can find my own little library with diffrent code concepts and little libary examples. The main idea behind this repository is to easy find an explaination about how a library or some code concept works_ 
