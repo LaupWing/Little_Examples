@@ -19,8 +19,6 @@ app
     .post('/login', (req,res)=>{
         req.session.email = req.body.email
         req.session.password = req.body.password
-        console.log(req.session.email, req.session.password)
-        console.log(req.session)
         res.redirect('/home')
     })
     .get('/home', (req,res)=>{
